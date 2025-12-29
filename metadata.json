@@ -1,0 +1,7 @@
+{
+  "name": "Painel Edição - Sonia Andrade - VF",
+  "description": "Plataforma Mobile-First para agendamentos e informações de Psicanálise e Psicopedagogia com Sônia Andrade.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

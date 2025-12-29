@@ -1,0 +1,10 @@
+# wrangler.toml
+
+name = "sonia-backend"
+main = "worker.js"
+compatibility_date = "2024-02-28"
+
+[[d1_databases]]
+binding = "SONIAEDIT"  # <--- Mudou aqui
+database_name = "SONIAEDIT"
+database_id = "e120e2f2-a9fa-4359-afa8-152ef21f17f0" # <--- Seu ID novo
